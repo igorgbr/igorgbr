@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Igor Giamoniano Pereira</h1>
-(https://github-readme-stats.vercel.app/api/pin/?username=igorgbr&repo=github-readme-stats)
+<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&layout=compact" />
