@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Igor Giamoniano Pereira</h1>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
