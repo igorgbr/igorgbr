@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/igorgbr/igorgbr/blob/master/anima.gif?raw=true" />
 
+<a href="mailto:igorgphotoarte@gmail.com"><img align = left src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/igorgiamoniano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <img  align = left height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
 <img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
 
