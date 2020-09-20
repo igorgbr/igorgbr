@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/igorgbr/igorgbr/blob/master/animacao.gif?raw=true" />
 
-<img  height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
+<img  align = left height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
 <img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
 
 
