@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a href="mailto:igorgphotoarte@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/igorgiamoniano/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="www.instagram.com/coisa_de_dev"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="http://www.instagram.com/coisa_de_dev"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <img  align = left height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
 <img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
