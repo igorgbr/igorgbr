@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/igorgbr/igorgbr/blob/master/animacao.gif?raw=true" />
+<img src="https://github.com/igorgbr/igorgbr/blob/master/anima.gif?raw=true" />
 
 <img  align = left height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
 <img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
