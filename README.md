@@ -25,11 +25,15 @@ Here are some ideas to get you started:
 <img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 Dev Jr.
 
 -:rocket: Buscando novos desafios. <br>
 -:computer: Minha stack: HTML, CSS e JavaScript. <br>
--:🌱: Estudando: ReactJS, Node.js ExpressJS. <br>
+-:🌱: Estudando: ReactJS, Node.js ExpressJS. Python <br>
 -:speech_balloon: Sobre mim: Fã de música, guitarra, video games, arte e literatura. <br>
 -:mailbox: igorgphotoarte@gmail.com <br>
 
