@@ -24,4 +24,12 @@ Here are some ideas to get you started:
 <img  align = left height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
 <img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
 
+Dev Jr.
+
+rocket Buscando novos desafios.
+computer Minha stack: HTML, CSS e JavaScript.
+blue_book Estudando: ReactJS, Node.js ExpressJS.
+speech_balloon Sobre mim: Fã de música, guitarra, video games, arte e literatura.
+mailbox igorgphotoarte@gmail.com
+
 
