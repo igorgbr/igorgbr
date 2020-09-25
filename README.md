@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 Dev Jr.
 
-::rocket:: Buscando novos desafios.
-::computer:: Minha stack: HTML, CSS e JavaScript.
-::🌱:: Estudando: ReactJS, Node.js ExpressJS.
-::speech_balloon:: Sobre mim: Fã de música, guitarra, video games, arte e literatura.
-::mailbox:: igorgphotoarte@gmail.com
+-:rocket: Buscando novos desafios.
+-:computer: Minha stack: HTML, CSS e JavaScript.
+-:🌱: Estudando: ReactJS, Node.js ExpressJS.
+-:speech_balloon: Sobre mim: Fã de música, guitarra, video games, arte e literatura.
+-:mailbox: igorgphotoarte@gmail.com
 
 
