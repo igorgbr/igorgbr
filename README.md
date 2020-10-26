@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="http://www.instagram.com/coisa_de_dev"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://wa.me/5511959841164"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />
-[![igorgbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorgbr)](https://github.com/igorgbr/github-readme-stats)
+[![igorgbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorgbr)](https://github.com/igorgbr/)
 
 Dev Jr.
 
