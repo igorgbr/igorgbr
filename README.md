@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />
 [![igorgbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorgbr)](https://github.com/igorgbr/github-readme-stats)
 
-<img  align = left height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
-<img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 Dev Jr.
@@ -38,4 +32,6 @@ Dev Jr.
 -:speech_balloon: Sobre mim: Fã de música, guitarra, video games, arte e literatura. <br>
 -:mailbox: igorgphotoarte@gmail.com <br>
 
+<img  align = left height = "150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorgbr&theme=darcula&layout=compact"/>
+<img  align = right src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
 
