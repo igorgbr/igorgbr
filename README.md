@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />
 [![igorgbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorgbr)](https://github.com/igorgbr/github-readme-stats)
 
-<br>
-<br>
 Dev Jr.
 
 -:rocket: Buscando novos desafios. <br>
