@@ -1,7 +1,7 @@
 
-
+![Profile views](https://gpvc.arturio.dev/igorgbr)
 <div id="container"> 
-  
+
 <div id="data_blocks">
 
   ![igorgbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorgbr)
