@@ -1,5 +1,5 @@
 
-![Metrics](https://github.com/igorgbr/igorgbr/blob/master/github-metrics.svg)
+![Metrics](https://github.com/igorgbr/igorgbr/blob/master/metrics.svg)
 ![Profile views](https://gpvc.arturio.dev/igorgbr)
 <div id="container"> 
 
