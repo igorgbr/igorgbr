@@ -1,6 +1,6 @@
 
+![Profile views](https://gpvc.arturio.dev/igorgbr) <br>
 ![Metrics](https://github.com/igorgbr/igorgbr/blob/master/metrics.svg)
-![Profile views](https://gpvc.arturio.dev/igorgbr)
 <div id="container"> 
 
 <div id="data_blocks">
