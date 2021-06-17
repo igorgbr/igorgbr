@@ -25,7 +25,6 @@ jobs:
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
           plugin_languages_skipped: lowlighter
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used, recently-used
@@ -42,15 +41,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.personal.anilist.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-          plugin_music_limit: 4
-          config_order: anilist, music
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
+          plugin_wakatime_user: .user.login                         # User
