@@ -1,10 +1,13 @@
 <img align="right" alt="PC GIF" src="https://sophia.ml/cdn/PC.gif" width="180" />
 
-
 ![Profile views](https://gpvc.arturio.dev/igorgbr) <br>
 ![Metrics](https://github.com/igorgbr/igorgbr/blob/master/metrics.svg)
 
 Se my metrics here: <a href="https://metrics.lecoq.io/about/igorgbr"> @igorgbr </a>
+
+<img width=499px
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=igorgbr&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 <div id="data_blocks">
 
