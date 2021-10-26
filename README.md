@@ -1,6 +1,7 @@
 <img align="right" alt="PC GIF" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width = "30%" />
 
-![Profile views](https://gpvc.arturio.dev/igorgbr) <br>
+![Profile views](https://gpvc.arturio.dev/igorgbr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsmendess/)](https://www.linkedin.com/in/igorgiamoniano/)<br>
 ![Metrics](https://github.com/igorgbr/igorgbr/blob/master/metrics.svg)
 
 Se my metrics here: <a href="https://metrics.lecoq.io/about/igorgbr"> @igorgbr </a>
