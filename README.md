@@ -1,4 +1,4 @@
-<img align="right" alt="PC GIF" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" />
+<img align="right" alt="PC GIF" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width = "30%" />
 
 ![Profile views](https://gpvc.arturio.dev/igorgbr) <br>
 ![Metrics](https://github.com/igorgbr/igorgbr/blob/master/metrics.svg)
