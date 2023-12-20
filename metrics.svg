@@ -242,8 +242,18 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">mentorias</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 49.144%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">61%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 23.232%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">aurelita_pelucias</span>
+                                <div class="bar" style="width: 7.624%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                         </div>
                     </section>
