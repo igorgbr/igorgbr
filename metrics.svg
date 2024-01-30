@@ -81,14 +81,14 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.1367627036417" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="267.1367627036417" y="0" width="136.7208584380559" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="403.85762114169756" y="0" width="29.805874896320756" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.6634960380183" y="0" width="13.369052202173222" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="447.03254824019155" y="0" width="9.498848703944244" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.5313969441358" y="0" width="1.6618809892695243" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.19327793340534" y="0" width="1.2157435953614297" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.40902152876674" y="0" width="0.5909784712332483" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.08795431466893" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="267.08795431466893" y="0" width="136.75119768203086" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="403.8391519966998" y="0" width="29.837866877780435" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.6770188744802" y="0" width="13.362187680335325" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="447.03920655481556" y="0" width="9.493971390775217" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.5331779455908" y="0" width="1.6610276738534193" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.19420561944423" y="0" width="1.215119355263221" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.40932497470743" y="0" width="0.5906750252925669" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,7 +101,7 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                             </div>
                             <small>
                                 <div>2.78 MB</div>
-                                <div>58.07%</div>
+                                <div>58.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -112,8 +112,8 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                                 HTML
                             </div>
                             <small>
-                                <div>310 kB</div>
-                                <div>6.48%</div>
+                                <div>311 kB</div>
+                                <div>6.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -150,8 +150,8 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                                 CSS
                             </div>
                             <small>
-                                <div>1.42 MB</div>
-                                <div>29.72%</div>
+                                <div>1.43 MB</div>
+                                <div>29.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -163,7 +163,7 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                             </div>
                             <small>
                                 <div>139 kB</div>
-                                <div>2.91%</div>
+                                <div>2.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
