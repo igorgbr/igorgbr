@@ -240,13 +240,8 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">unificador_de_planilha</span>
-                                <div class="bar" style="width: 43.032000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">new-portfolio</span>
-                                <div class="bar" style="width: 36.968%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">46%</span>
+                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                         </div>
                     </section>
@@ -353,7 +348,7 @@ Graduado em Sistemas para Internet e Pós-graduado em Ciência de Dados.</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 217k out of 137m users</span>
+                                    <span class="gh">ranked 217k out of 139m users</span>
                                 </div>
                                 <div class="text">Published 93 public repositories</div>
                             </div>
