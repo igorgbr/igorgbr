@@ -1,6 +1,5 @@
 <img align="right" alt="PC GIF" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width = "30%" />
 
-![Profile views](https://gpvc.arturio.dev/igorgbr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorgiamoniano/)](https://www.linkedin.com/in/igorgiamoniano/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&link=https://www.youtube.com/coisa_de_devoficial)](https://www.youtube.com/coisa_de_devoficial)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&link=https://twitter.com/IgorPolaroidOn)](https://twitter.com/IgorPolaroidOn)
