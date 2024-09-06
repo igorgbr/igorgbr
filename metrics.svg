@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.67329139565345" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="266.67329139565345" y="0" width="136.28871486215894" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="402.9620062578124" y="0" width="30.013746901543172" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.9757531593555" y="0" width="13.316698764940453" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="446.29245192429596" y="0" width="9.461651049848419" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.7541029741444" y="0" width="1.6553730348727342" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="457.4094760090171" y="0" width="1.3765773914807453" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="458.7860534004979" y="0" width="1.2139465995020853" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.8798759316101" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="266.8798759316101" y="0" width="136.39062656325694" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="403.27050249486706" y="0" width="30.036190080394437" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.30669257526154" y="0" width="13.326656503741624" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="446.63334907900315" y="0" width="9.468726125394188" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.10207520439735" y="0" width="1.6566108620993407" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="457.7586860664967" y="0" width="1.2148543442344537" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.9735404107311" y="0" width="1.0264595892688997" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,7 +102,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>2.79 MB</div>
-                                <div>57.97%</div>
+                                <div>58.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>313 kB</div>
-                                <div>6.52%</div>
+                                <div>6.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -132,13 +132,13 @@ Formado em Desenvolvimento Web pela @tryber
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                SCSS
                             </div>
                             <small>
-                                <div>14.4 kB</div>
-                                <div>0.3%</div>
+                                <div>12.7 kB</div>
+                                <div>0.26%</div>
                             </small>
                         </div>
                     </section>
@@ -152,7 +152,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.43 MB</div>
-                                <div>29.63%</div>
+                                <div>29.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -164,7 +164,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>139 kB</div>
-                                <div>2.89%</div>
+                                <div>2.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -182,13 +182,13 @@ Formado em Desenvolvimento Web pela @tryber
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                SCSS
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>12.7 kB</div>
-                                <div>0.26%</div>
+                                <div>10.7 kB</div>
+                                <div>0.22%</div>
                             </small>
                         </div>
                     </section>
@@ -196,7 +196,7 @@ Formado em Desenvolvimento Web pela @tryber
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.01mb of code in 608 edited files across 21 commits over last 0 days</small>
+                <small>estimation from 1.01mb of code in 608 edited files across 21 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
