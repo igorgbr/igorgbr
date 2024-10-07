@@ -241,13 +241,8 @@ Formado em Desenvolvimento Web pela @tryber
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">bootcamp_rayza</span>
-                                <div class="bar" style="width: 79.96799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">curso_javascript_udemy</span>
-                                <div class="bar" style="width: 0.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
