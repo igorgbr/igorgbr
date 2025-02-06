@@ -196,17 +196,18 @@ Formado em Desenvolvimento Web pela @tryber
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 30.1kb of code in 78 edited files across 10 commits over last 1 day</small>
+                <small>estimation from 53.3kb of code in 86 edited files across 16 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.50988032284994" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="296.50988032284994" y="0" width="56.99749512941831" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="353.50737545226826" y="0" width="49.956025605343726" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="403.46340105761203" y="0" width="49.26468132479822" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="452.72808238241026" y="0" width="7.271917617589758" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.4340480831709" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="288.4340480831709" y="0" width="55.445094217024035" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="343.8791423001949" y="0" width="54.02534113060428" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="397.90448343079925" y="0" width="47.922893653887805" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="445.82737708468704" y="0" width="7.098765432098765" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="452.9261425167858" y="0" width="7.0738574832142085" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -219,7 +220,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>11.5 kB</div>
-                                <div>64.46%</div>
+                                <div>62.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -230,20 +231,20 @@ Formado em Desenvolvimento Web pela @tryber
                                 JS
                             </div>
                             <small>
-                                <div>1.95 kB</div>
-                                <div>10.86%</div>
+                                <div>2.17 kB</div>
+                                <div>11.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                Dockerfile
                             </div>
                             <small>
-                                <div>284 bytes</div>
-                                <div>1.58%</div>
+                                <div>285 bytes</div>
+                                <div>1.54%</div>
                             </small>
                         </div>
                     </section>
@@ -257,7 +258,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>2.23 kB</div>
-                                <div>12.39%</div>
+                                <div>12.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +270,19 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.92 kB</div>
-                                <div>10.71%</div>
+                                <div>10.42%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                HTML
+                            </div>
+                            <small>
+                                <div>284 bytes</div>
+                                <div>1.54%</div>
                             </small>
                         </div>
                     </section>
