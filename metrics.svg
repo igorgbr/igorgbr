@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="979" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="939" class="">
     <defs>
         <style/>
     </defs>
@@ -35,10 +35,10 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -196,18 +196,14 @@ Formado em Desenvolvimento Web pela @tryber
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 77.2kb of code in 102 edited files across 18 commits over last 7 days</small>
+                <small>estimation from 23.8kb of code in 16 edited files across 2 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.7480523298545" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="337.7480523298545" y="0" width="59.20564456857269" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="396.95369689842715" y="0" width="29.332353373511687" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="426.28605027193885" y="0" width="26.019109216522125" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="452.305159488461" y="0" width="3.8541819785388802" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="456.1593414669999" y="0" width="3.8406585330001475" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.32726571042645" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="396.32726571042645" y="0" width="63.672734289573555" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -219,32 +215,8 @@ Formado em Desenvolvimento Web pela @tryber
                                 Vue
                             </div>
                             <small>
-                                <div>24.9 kB</div>
-                                <div>73.42%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JS
-                            </div>
-                            <small>
-                                <div>2.17 kB</div>
-                                <div>6.38%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Dockerfile
-                            </div>
-                            <small>
-                                <div>285 bytes</div>
-                                <div>0.84%</div>
+                                <div>13.3 kB</div>
+                                <div>86.16%</div>
                             </small>
                         </div>
                     </section>
@@ -257,32 +229,8 @@ Formado em Desenvolvimento Web pela @tryber
                                 CSS
                             </div>
                             <small>
-                                <div>4.38 kB</div>
-                                <div>12.87%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TS
-                            </div>
-                            <small>
-                                <div>1.92 kB</div>
-                                <div>5.66%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                HTML
-                            </div>
-                            <small>
-                                <div>284 bytes</div>
-                                <div>0.83%</div>
+                                <div>2.15 kB</div>
+                                <div>13.84%</div>
                             </small>
                         </div>
                     </section>
@@ -485,7 +433,7 @@ Formado em Desenvolvimento Web pela @tryber
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.84873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.933607118412034 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
