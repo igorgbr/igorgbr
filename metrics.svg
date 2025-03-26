@@ -41,8 +41,8 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.5837245791982" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="263.5837245791982" y="0" width="133.7457422046539" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="397.32946678385207" y="0" width="29.460615125838963" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.7900819096911" y="0" width="15.170559173659417" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="441.9606410833505" y="0" width="9.267853627323019" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.2284947106735" y="0" width="5.960956238078631" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.18945094875215" y="0" width="1.621467004541852" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.810917953294" y="0" width="1.1890820467060121" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.58816315362594" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="263.58816315362594" y="0" width="133.74271984599298" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="397.3308829996189" y="0" width="29.45994938094261" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.7908323805615" y="0" width="15.170216352496263" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="441.96104873305774" y="0" width="9.267644194280763" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.2286929273385" y="0" width="5.960821533620631" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.1895144609591" y="0" width="1.6214303629653517" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.81094482392444" y="0" width="1.1890551760754922" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -152,7 +152,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.43 MB</div>
-                                <div>29.08%</div>
+                                <div>29.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -415,7 +415,7 @@ Formado em Desenvolvimento Web pela @tryber
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.782340862423005 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.8672142368241 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
