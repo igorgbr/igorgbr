@@ -39,9 +39,9 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.56088874192625" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="263.56088874192625" y="0" width="133.7612918122323" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="397.32218055415854" y="0" width="29.46404028911274" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.7862208432713" y="0" width="15.1723229400269" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="441.9585437832982" y="0" width="9.268931130685916" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.2274749139841" y="0" width="5.961649273451317" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.1891241874354" y="0" width="1.6216555202673344" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.81077970770275" y="0" width="1.189220292297236" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.62126619133807" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="263.62126619133807" y="0" width="133.72017899321202" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="397.3414451845501" y="0" width="29.45498423306245" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.79642941761256" y="0" width="15.167659580704493" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="441.96408899831704" y="0" width="9.266082235591348" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.2301712339084" y="0" width="5.959816903231795" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.1899881371402" y="0" width="1.6211570888525757" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.81114522599273" y="0" width="1.1888547740072284" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,8 +101,8 @@ Formado em Desenvolvimento Web pela @tryber
                                 JS
                             </div>
                             <small>
-                                <div>2.81 MB</div>
-                                <div>57.3%</div>
+                                <div>2.82 MB</div>
+                                <div>57.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>314 kB</div>
-                                <div>6.41%</div>
+                                <div>6.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -152,7 +152,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.43 MB</div>
-                                <div>29.08%</div>
+                                <div>29.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -415,7 +415,7 @@ Formado em Desenvolvimento Web pela @tryber
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.95208761122519 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.0369609856263 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
