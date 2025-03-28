@@ -196,7 +196,7 @@ Formado em Desenvolvimento Web pela @tryber
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 117kb of code in 66 edited files across 18 commits over last 3 days</small>
+                <small>estimation from 140kb of code in 73 edited files across 20 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -214,7 +214,7 @@ Formado em Desenvolvimento Web pela @tryber
                                 JS
                             </div>
                             <small>
-                                <div>56.2 kB</div>
+                                <div>68.4 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
