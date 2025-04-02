@@ -34,11 +34,11 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.7460350870919" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="263.7460350870919" y="0" width="133.47262168209016" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="397.2186567691821" y="0" width="29.400453968813817" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.61911073799587" y="0" width="15.139579562788859" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="441.75869030078474" y="0" width="9.248927858292815" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.00761815907754" y="0" width="6.187572177059216" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.19519033613676" y="0" width="1.6181558268677045" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.81334616300444" y="0" width="1.1866538369954513" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.63173220136724" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="263.63173220136724" y="0" width="133.41477699897118" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="397.0465092003384" y="0" width="29.387712329952244" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.43422153029064" y="0" width="15.13301833568979" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="441.56723986598047" y="0" width="9.24491953587874" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.81215940185916" y="0" width="6.384246489379288" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.1964058912385" y="0" width="1.6174545466361283" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.8138604378746" y="0" width="1.1861395621253852" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,7 +102,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>2.82 MB</div>
-                                <div>57.34%</div>
+                                <div>57.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -152,7 +152,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.43 MB</div>
-                                <div>29.02%</div>
+                                <div>29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -175,8 +175,8 @@ Formado em Desenvolvimento Web pela @tryber
                                 Vue
                             </div>
                             <small>
-                                <div>66.2 kB</div>
-                                <div>1.35%</div>
+                                <div>68.3 kB</div>
+                                <div>1.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -415,7 +415,7 @@ Formado em Desenvolvimento Web pela @tryber
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.37645448323066 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.46132785763176 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
