@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.6768253969543" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="263.6768253969543" y="0" width="133.38414018223463" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="397.060965579189" y="0" width="29.3809638574276" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.4419294366166" y="0" width="15.12954325204576" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="441.5714726886623" y="0" width="9.24279657085241" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.81426925951473" y="0" width="6.382780437461385" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.19704969697614" y="0" width="1.6170831210741354" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.81413281805027" y="0" width="1.1858671819497688" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.59889139452645" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="261.59889139452645" y="0" width="132.16637773260967" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="393.76526912713615" y="0" width="29.112723311958852" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="422.877992439095" y="0" width="14.99141446381692" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="437.8694069029119" y="0" width="10.194820753921734" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="448.0642276568337" y="0" width="9.158412246163367" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.22263990299706" y="0" width="1.602319573473379" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.82495947647044" y="0" width="1.1750405235296" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,8 +101,8 @@ Formado em Desenvolvimento Web pela @tryber
                                 JS
                             </div>
                             <small>
-                                <div>2.82 MB</div>
-                                <div>57.32%</div>
+                                <div>2.83 MB</div>
+                                <div>56.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,19 +114,19 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>314 kB</div>
-                                <div>6.39%</div>
+                                <div>6.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Vue
                             </div>
                             <small>
-                                <div>98.9 kB</div>
-                                <div>2.01%</div>
+                                <div>110 kB</div>
+                                <div>2.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -152,7 +152,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.43 MB</div>
-                                <div>29%</div>
+                                <div>28.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -164,19 +164,19 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>161 kB</div>
-                                <div>3.29%</div>
+                                <div>3.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                Python
                             </div>
                             <small>
-                                <div>68.3 kB</div>
-                                <div>1.39%</div>
+                                <div>98.9 kB</div>
+                                <div>1.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
