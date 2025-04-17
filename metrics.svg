@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.59889139452645" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="261.59889139452645" y="0" width="132.16637773260967" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="393.76526912713615" y="0" width="29.112723311958852" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="422.877992439095" y="0" width="14.99141446381692" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="437.8694069029119" y="0" width="10.194820753921734" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="448.0642276568337" y="0" width="9.158412246163367" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.22263990299706" y="0" width="1.602319573473379" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.82495947647044" y="0" width="1.1750405235296" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.9141709659975" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="257.9141709659975" y="0" width="130.27227321752687" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="388.1864441835244" y="0" width="28.69550267220508" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="416.88194685572944" y="0" width="16.576765587796874" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="433.45871244352634" y="0" width="14.776569309470318" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="448.2352817529966" y="0" width="9.027161089219783" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.2624428422164" y="0" width="1.5793563903190249" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.84179923253544" y="0" width="1.1582007674645176" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,7 +102,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>2.83 MB</div>
-                                <div>56.87%</div>
+                                <div>56.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,19 +114,19 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>314 kB</div>
-                                <div>6.33%</div>
+                                <div>6.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#6e4a7e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                Elixir
                             </div>
                             <small>
-                                <div>110 kB</div>
-                                <div>2.22%</div>
+                                <div>161 kB</div>
+                                <div>3.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -138,7 +138,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>17.3 kB</div>
-                                <div>0.35%</div>
+                                <div>0.34%</div>
                             </small>
                         </div>
                     </section>
@@ -152,19 +152,19 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.43 MB</div>
-                                <div>28.73%</div>
+                                <div>28.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#6e4a7e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Elixir
+                                Vue
                             </div>
                             <small>
-                                <div>161 kB</div>
-                                <div>3.26%</div>
+                                <div>181 kB</div>
+                                <div>3.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -176,7 +176,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>98.9 kB</div>
-                                <div>1.99%</div>
+                                <div>1.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -188,7 +188,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>12.7 kB</div>
-                                <div>0.26%</div>
+                                <div>0.25%</div>
                             </small>
                         </div>
                     </section>
