@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.0411262373147" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="263.0411262373147" y="0" width="76.43486296095799" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="339.47598919827266" y="0" width="51.57385861827332" height="8" fill="#882B0F"/>
-                    <rect mask="url(#languages-bar)" x="391.049847816546" y="0" width="38.61725571692894" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.6671035334749" y="0" width="11.69956867722618" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.3666722107011" y="0" width="11.645260814025315" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="453.01193302472643" y="0" width="4.337961078782553" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="457.349894103509" y="0" width="2.650105896491034" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.8678665270033" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="262.8678665270033" y="0" width="76.38451690897841" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="339.2523834359817" y="0" width="51.539887991962274" height="8" fill="#882B0F"/>
+                    <rect mask="url(#languages-bar)" x="390.79227142794394" y="0" width="38.591819335043546" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.3840907629875" y="0" width="11.94058274082557" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="441.3246735038131" y="0" width="11.69186241505805" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.0165359188711" y="0" width="4.335103754186194" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="457.3516396730573" y="0" width="2.648360326942695" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,7 +102,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>9.82 MB</div>
-                                <div>57.18%</div>
+                                <div>57.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,19 +114,19 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.93 MB</div>
-                                <div>11.21%</div>
+                                <div>11.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                Vue
                             </div>
                             <small>
-                                <div>436 kB</div>
-                                <div>2.54%</div>
+                                <div>446 kB</div>
+                                <div>2.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -152,7 +152,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>2.85 MB</div>
-                                <div>16.62%</div>
+                                <div>16.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -164,19 +164,19 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.44 MB</div>
-                                <div>8.4%</div>
+                                <div>8.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                HTML
                             </div>
                             <small>
-                                <div>434 kB</div>
-                                <div>2.53%</div>
+                                <div>436 kB</div>
+                                <div>2.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
