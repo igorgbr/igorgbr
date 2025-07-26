@@ -33,8 +33,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 8 repositories
+                            Contributed to 9 repositories
                         </div>
                     </section>
                 </div>
@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.8955953791476" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="262.8955953791476" y="0" width="76.62237190009363" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="339.51796727924125" y="0" width="51.5453247231708" height="8" fill="#882B0F"/>
-                    <rect mask="url(#languages-bar)" x="391.0632920024121" y="0" width="38.5958902276424" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.65918223005445" y="0" width="11.693095741628097" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.35227797168255" y="0" width="11.663521290230388" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="453.01579926191295" y="0" width="4.3355610464852425" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="457.3513603083982" y="0" width="2.6486396916018333" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.13053866382916" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="263.13053866382916" y="0" width="76.67308688799173" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="339.8036255518209" y="0" width="51.59138950368936" height="8" fill="#882B0F"/>
+                    <rect mask="url(#languages-bar)" x="391.39501505551027" y="0" width="38.561831599811455" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.9568466553218" y="0" width="11.72245799010074" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.67930464542246" y="0" width="11.33025300920941" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="453.00955765463186" y="0" width="4.339435630050363" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="457.34899328468225" y="0" width="2.651006715317789" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -102,7 +102,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>9.82 MB</div>
-                                <div>57.15%</div>
+                                <div>57.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.93 MB</div>
-                                <div>11.21%</div>
+                                <div>11.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -125,8 +125,8 @@ Formado em Desenvolvimento Web pela @tryber
                                 HTML
                             </div>
                             <small>
-                                <div>436 kB</div>
-                                <div>2.54%</div>
+                                <div>437 kB</div>
+                                <div>2.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -152,7 +152,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>2.86 MB</div>
-                                <div>16.66%</div>
+                                <div>16.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -164,7 +164,7 @@ Formado em Desenvolvimento Web pela @tryber
                             </div>
                             <small>
                                 <div>1.44 MB</div>
-                                <div>8.39%</div>
+                                <div>8.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -175,8 +175,8 @@ Formado em Desenvolvimento Web pela @tryber
                                 Vue
                             </div>
                             <small>
-                                <div>435 kB</div>
-                                <div>2.54%</div>
+                                <div>422 kB</div>
+                                <div>2.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
