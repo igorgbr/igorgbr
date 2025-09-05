@@ -241,13 +241,13 @@ Formado em Desenvolvimento Web pela @tryber
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">gitec-wls1036</span>
-                                <div class="bar" style="width: 63.751999999999995%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">80%</span>
+                                <div class="bar" style="width: 64.776%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">81%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">XML_Componente_Cadastro_Basico_Estrutura_2025_08_20_14_49_24</span>
-                                <div class="bar" style="width: 16.247999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 15.224000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                         </div>
                     </section>
