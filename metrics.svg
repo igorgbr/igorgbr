@@ -17,7 +17,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            Joined GitHub 7 years ago
+                            Joined GitHub 8 years ago
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -30,13 +30,13 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 7 repositories
+                            Contributed to 8 repositories
                         </div>
                     </section>
                 </div>
@@ -82,14 +82,14 @@ Formado em Desenvolvimento Web pela @tryber
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.8565808921549" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="262.8565808921549" y="0" width="77.00863128191484" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="339.8652121740697" y="0" width="51.53767524392393" height="8" fill="#882B0F"/>
-                    <rect mask="url(#languages-bar)" x="391.40288741799367" y="0" width="38.52168303510891" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.92457045310255" y="0" width="11.710253179188935" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.6348236322915" y="0" width="11.319446670424346" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="452.9542703027158" y="0" width="4.397483071677355" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="457.3517533743932" y="0" width="2.6482466256067667" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.83985302118685" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="262.83985302118685" y="0" width="77.00373054690895" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="339.8435835680958" y="0" width="51.53439544937382" height="8" fill="#882B0F"/>
+                    <rect mask="url(#languages-bar)" x="391.37797901746967" y="0" width="38.519231562366265" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.89721057983587" y="0" width="11.709507953014572" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.60671853285044" y="0" width="11.3187263146977" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="452.9254448475482" y="0" width="4.426477058017796" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="457.351921905566" y="0" width="2.64807809443401" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -137,7 +137,7 @@ Formado em Desenvolvimento Web pela @tryber
                                 Elixir
                             </div>
                             <small>
-                                <div>164 kB</div>
+                                <div>165 kB</div>
                                 <div>0.96%</div>
                             </small>
                         </div>
@@ -217,7 +217,7 @@ Formado em Desenvolvimento Web pela @tryber
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~2 coding hours recorded
+                            ~1 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
