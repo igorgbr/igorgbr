@@ -6,9 +6,9 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&link=https://www.youtube.com/coisa_de_devoficial)](https://www.youtube.com/coisa_de_devoficial)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&link=https://twitter.com/IgorPolaroidOn)](https://twitter.com/IgorPolaroidOn)
 
-<br>
+### 🌐 Join Me on CoderLegion
+
 [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Igor+-+coisa_de_dev) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Igor+-+coisa_de_dev)
-<br>
 
 
 ![Metrics](https://github.com/igorgbr/igorgbr/blob/master/metrics.svg)
