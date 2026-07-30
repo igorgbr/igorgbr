@@ -9,8 +9,8 @@ Acredito que software bom é software que alguém consegue ler daqui a dois anos
 
 ### Projetos
 
-**[Deriva](https://github.com/igorgbr/deriva)** — Jogo open source escrito em Rust.
-Disponível como pacote `.deb` e via `cargo install`. Sem engine, sem framework: só Rust e as bibliotecas que realmente fazem falta.
+**[Deriva](https://github.com/igorgbr/deriva)** — Visual novel de terminal escrita em Rust.
+ASCII art com degradê truecolor, suporte a mouse e histórias que qualquer pessoa escreve num `.txt` — sem recompilar. Disponível no crates.io e como `.deb`.
 
 **[secure-notes-api](https://github.com/igorgbr/secure-notes-api)** — API de notas com foco em práticas de SecDevOps.
 Autenticação, criptografia em repouso, pipeline com análise estática e varredura de dependências. Serve de referência de como fechar uma API antes de ela ir pra produção.
