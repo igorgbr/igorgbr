@@ -12,8 +12,8 @@ Acredito que software bom é software que alguém consegue ler daqui a dois anos
 **[Deriva](https://github.com/igorgbr/deriva)** — Visual novel de terminal escrita em Rust.
 ASCII art com degradê truecolor, suporte a mouse e histórias que qualquer pessoa escreve num `.txt` — sem recompilar. Disponível no crates.io e como `.deb`.
 
-**[secure-notes-api](https://github.com/igorgbr/secure-notes-api)** — API de notas com foco em práticas de SecDevOps.
-Autenticação, criptografia em repouso, pipeline com análise estática e varredura de dependências. Serve de referência de como fechar uma API antes de ela ir pra produção.
+**[secure-notes-api](https://github.com/igorgbr/secure-notes-api)** — API FastAPI com vulnerabilidades plantadas, usada no curso de SecDevOps do Coisa de Dev Academy.
+Cada falha vem documentada com o impacto e o exercício de correção — de segredo vazando em endpoint de debug a gate de pipeline que não bloqueia nada.
 
 ---
 
