@@ -1,28 +1,37 @@
-<img align="right" alt="PC GIF" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width = "30%" />
+## Olá, eu sou o Igor 👋
 
-### 🌐 Join Me on CoderLegion
+Desenvolvedor brasileiro, fundador do [Coisa de Dev Academy](https://www.coisadedevacademy.com.br).
+Escrevo **Python**, **Elixir** e **Rust** — e passo boa parte do tempo contribuindo com projetos open source dos outros.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorgiamoniano/)](https://www.linkedin.com/in/igorgiamoniano/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&link=https://www.youtube.com/coisa_de_devoficial)](https://www.youtube.com/coisa_de_devoficial)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&link=https://twitter.com/IgorPolaroidOn)](https://twitter.com/IgorPolaroidOn)
+Acredito que software bom é software que alguém consegue ler daqui a dois anos. Por isso gosto de contribuição pequena, bem explicada e com teste junto.
 
-### 🌐 Join Me on CoderLegion
+---
 
-[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Igor+-+coisa_de_dev) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Igor+-+coisa_de_dev)
+### Projetos
 
+**[Deriva](https://github.com/igorgbr/deriva)** — Jogo open source escrito em Rust.
+Disponível como pacote `.deb` e via `cargo install`. Sem engine, sem framework: só Rust e as bibliotecas que realmente fazem falta.
 
-![Metrics](https://github.com/igorgbr/igorgbr/blob/master/metrics.svg)
+**[secure-notes-api](https://github.com/igorgbr/secure-notes-api)** — API de notas com foco em práticas de SecDevOps.
+Autenticação, criptografia em repouso, pipeline com análise estática e varredura de dependências. Serve de referência de como fechar uma API antes de ela ir pra produção.
 
-Se my metrics here: <a href="https://metrics.lecoq.io/about/igorgbr"> @igorgbr </a>
+---
 
-<img width=499px
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=igorgbr&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+### Contribuições open source
 
-<div id="data_blocks">
+- **[TimeConv](https://github.com/hitblast/timeconv)** — correção de layout do rodapé em mobile.
+- **[Faker (Elixir)](https://github.com/elixirs/faker)** — melhorias nos geradores de dados.
+- **[btop](https://github.com/aristocratos/btop)** — investigação de crash com `rocm-smi` no Fedora.
 
-  ![igorgbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorgbr)
+Contribuí com 13 repositórios até aqui. A meta pra 2026 é dobrar isso — e manter cada PR pequeno o suficiente pra ser revisado no café.
 
-  <img  src = "https://github-readme-stats.vercel.app/api?username=igorgbr&theme=darcula&show_icons=true" />
-  
-</div>
+---
+
+### Vamos conversar
+
+Estou aberto a **parcerias** e **projetos freelance**, principalmente em Python, Elixir, Rust e automação de processos.
+
+- 🌐 [coisadedevacademy.com.br](https://www.coisadedevacademy.com.br)
+- 📺 [YouTube — Coisa de Dev](https://www.youtube.com/coisa_de_devoficial)
+- 📸 [Instagram — @coisa_de_dev](https://instagram.com/coisa_de_dev)
+- 💼 [LinkedIn](https://linkedin.com/in/igorgiamoniano)
