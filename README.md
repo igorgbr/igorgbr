@@ -1,7 +1,7 @@
 ## Olá, eu sou o Igor 👋
 
 Desenvolvedor brasileiro, fundador do [Coisa de Dev Academy](https://www.coisadedevacademy.com.br).
-Escrevo **Python**, **Elixir** e **Rust** — e passo boa parte do tempo contribuindo com projetos open source dos outros.
+Escrevo **Python**, **Elixir** e **Rust**, e contribuo com projetos open source — incluindo a documentação do kernel Linux em português.
 
 Acredito que software bom é software que alguém consegue ler daqui a dois anos. Por isso gosto de contribuição pequena, bem explicada e com teste junto.
 
@@ -19,6 +19,7 @@ Cada falha vem documentada com o impacto e o exercício de correção — de seg
 
 ### Contribuições open source
 
+- **[Linux kernel](https://lore.kernel.org/all/20260709222953.9900-1-igorgphotoarte@gmail.com/)** — tradução da *Kernel Driver Statement* para pt-BR, aplicada por Jonathan Corbet na árvore de documentação do kernel.
 - **[TimeConv](https://github.com/hitblast/timeconv)** — correção de layout do rodapé em mobile.
 - **[Faker (Elixir)](https://github.com/elixirs/faker)** — melhorias nos geradores de dados.
 - **[btop](https://github.com/aristocratos/btop)** — investigação de crash com `rocm-smi` no Fedora.
