@@ -52,4 +52,4 @@
 
 I turn what I learn into content - articles about contributing to open source, Linux deep dives and security fundamentals.
 
-[igorgdev.com.br](https://igorgdev.com.br) - [dev.to/igorgbr](https://dev.to/igorgbr) - [LinkedIn](https://linkedin.com/in/igorgiamoniano)
+[Coisa de Dev Academy Blog](https://www.coisadedevacademy.com.br) - [dev.to/igorgbr](https://dev.to/igorgbr) - [LinkedIn](https://linkedin.com/in/igorgiamoniano)
