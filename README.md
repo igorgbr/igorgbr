@@ -48,17 +48,6 @@
 - **A Biblia do Hacker** - a cybersecurity book written in Portuguese for the Coisa de Dev community.
 - **Open source contributions** - Rust on [uutils/coreutils](https://github.com/uutils/coreutils), JavaScript on TimeConv, and documentation on the Linux kernel.
 
-### Pinned work
-
-| Project | What it is |
-| --- | --- |
-| [awesome-brazilian-devblogs](https://github.com/igorgbr/awesome-brazilian-devblogs) | Curated list of Brazilian dev blogs in Portuguese |
-| [techgrammers](https://github.com/igorgbr/techgrammers) | Directory of Brazilian tech content creators on Instagram |
-| [coisa_de_dev](https://github.com/igorgbr/coisa_de_dev) | The Coisa de Dev project |
-| [projeto-fenc](https://github.com/igorgbr/projeto-fenc) | Final graduation project, Sistemas para Internet |
-| [APIRest-node](https://github.com/igorgbr/APIRest-node) | REST API in Node.js |
-| [sorteio-api](https://github.com/igorgbr/sorteio-api) | Simple raffle API in Node.js |
-
 ### Writing
 
 I turn what I learn into content - articles about contributing to open source, Linux deep dives and security fundamentals.
