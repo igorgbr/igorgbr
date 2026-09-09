@@ -1,38 +1,66 @@
-## Olá, eu sou o Igor 👋
+```yaml
+88888888888        88
+88                 88
+88                 88
+88aaaaa ,adPPYYba, 88   ,d8  ,adPPYba, 8b,dPPYba,
+88""""" ""     `Y8 88 ,a8"  a8P_____88 88P'   "Y8
+88      ,adPPPPP88 8888[    8PP""""""" 88
+88      88,    ,88 88`"Yba, "8b,   ,aa 88
+88      `"8bbdP"Y8 88   `Y8a `"Ybbd8"' 88
 
-Desenvolvedor brasileiro, fundador do [Coisa de Dev Academy](https://www.coisadedevacademy.com.br).
-Escrevo **Python**, **Elixir** e **Rust**, e contribuo com projetos open source — incluindo a documentação do kernel Linux em português.
+                 .88888888:.                   igorgbr@coisadedev
+                88888888.88888.                ------------------------------------------------
+              .8888888888888888.               OS:              Fedora Linux, GNOME
+              888888888888888888               Host:            Coisa de Dev, igorgdev.com.br
+              88' _`88'_  `88888               Work:            Developer @SYSMANAGER
+              88 88 88 88  88888               Teaching:        Linux and open source, Coisa de Dev Academy
+              88_88_::_88_:88888               Editor:          VS Code, rust-analyzer, cargo 1.96.0
+              88:::,::,:::::8888
+              88`:::::::::'`8888               Lang.Code:       Rust, Python, Elixir, JavaScript
+             .88  `::::'    8:88.              Lang.Markup:     HTML, CSS, Markdown, YAML
+            8888            `8:888.            Lang.Real:       Portugues, English
+          .8888'             `888888.
+         .8888:..  .::.  ...:'8888888:.        Focus:           Linux, systems programming
+        .8888.'     :'     `'::`88:88888       Also:            Cybersecurity, DevSecOps, open source culture
+       .8888        '         `.888:8888.      Education:       Sistemas para Internet, Pos em Ciencia de Dados
+      888:8         .           888:88888
+    .888:88        .:           888:88888:     - Open Source ---------------------------------------
+    8888888.       ::           88:888888      coreutils:       Contributor, uutils, Rust, PR merged
+    `.::.888.      ::          .88888888       TimeConv:        Contributor, 2 PRs merged
+   .::::::.888.    ::         :::`8888'.:.     Linux Kernel:    docs pt-BR, patch accepted
+  ::::::::::.888   '         .::::::::::::     btop:            bug triage, Fedora rocm-smi crash
+  ::::::::::::.8    '      .:8::::::::::::.
+ .::::::::::::::.        .:888:::::::::::::    - Contact -------------------------------------------
+ :::::::::::::::88:.__..:88888:::::::::::'     Site:            igorgdev.com.br
+  `'.:::::::::::88888888888.88:::::::::'       LinkedIn:        in/igorgiamoniano
+        `':::_:' -- '' -'-' `':_::::'`         YouTube:         @CoisaDeDevOficial
+                                               Instagram:       @coisa_de_dev
+                                               dev.to:          @igorgbr
 
-Acredito que software bom é software que alguém consegue ler daqui a dois anos. Por isso gosto de contribuição pequena, bem explicada e com teste junto.
+                                               - GitHub Stats --------------------------------------
+                                               Repos:           100        Followers:   174
+                                               Badges:          Pull Shark x3, Pair Extraordinaire x3
+```
 
----
+### What I'm building
 
-### Projetos
+- **[Coisa de Dev](https://igorgdev.com.br)** - Linux, open source and security education in Portuguese: YouTube, Instagram and the Academy courses.
+- **A Biblia do Hacker** - a cybersecurity book written in Portuguese for the Coisa de Dev community.
+- **Open source contributions** - Rust on [uutils/coreutils](https://github.com/uutils/coreutils), JavaScript on TimeConv, and documentation on the Linux kernel.
 
-**[Deriva](https://github.com/igorgbr/deriva)** — Visual novel de terminal escrita em Rust.
-ASCII art com degradê truecolor, suporte a mouse e histórias que qualquer pessoa escreve num `.txt` — sem recompilar. Disponível no crates.io e como `.deb`.
+### Pinned work
 
-**[secure-notes-api](https://github.com/igorgbr/secure-notes-api)** — API FastAPI com vulnerabilidades plantadas, usada no curso de SecDevOps do Coisa de Dev Academy.
-Cada falha vem documentada com o impacto e o exercício de correção — de segredo vazando em endpoint de debug a gate de pipeline que não bloqueia nada.
+| Project | What it is |
+| --- | --- |
+| [awesome-brazilian-devblogs](https://github.com/igorgbr/awesome-brazilian-devblogs) | Curated list of Brazilian dev blogs in Portuguese |
+| [techgrammers](https://github.com/igorgbr/techgrammers) | Directory of Brazilian tech content creators on Instagram |
+| [coisa_de_dev](https://github.com/igorgbr/coisa_de_dev) | The Coisa de Dev project |
+| [projeto-fenc](https://github.com/igorgbr/projeto-fenc) | Final graduation project, Sistemas para Internet |
+| [APIRest-node](https://github.com/igorgbr/APIRest-node) | REST API in Node.js |
+| [sorteio-api](https://github.com/igorgbr/sorteio-api) | Simple raffle API in Node.js |
 
----
+### Writing
 
-### Contribuições open source
+I turn what I learn into content - articles about contributing to open source, Linux deep dives and security fundamentals.
 
-- **[Linux kernel](https://lore.kernel.org/all/20260709222953.9900-1-igorgphotoarte@gmail.com/)** — tradução da *Kernel Driver Statement* para pt-BR, aplicada por Jonathan Corbet na árvore de documentação do kernel.
-- **[TimeConv](https://github.com/hitblast/timeconv)** — correção de layout do rodapé em mobile.
-- **[Faker (Elixir)](https://github.com/elixirs/faker)** — melhorias nos geradores de dados.
-- **[btop](https://github.com/aristocratos/btop)** — investigação de crash com `rocm-smi` no Fedora.
-
-Contribuí com 13 repositórios até aqui. A meta pra 2026 é dobrar isso — e manter cada PR pequeno o suficiente pra ser revisado no café.
-
----
-
-### Vamos conversar
-
-Estou aberto a **parcerias** e **projetos freelance**, principalmente em Python, Elixir, Rust e automação de processos.
-
-- 🌐 [coisadedevacademy.com.br](https://www.coisadedevacademy.com.br)
-- 📺 [YouTube — Coisa de Dev](https://www.youtube.com/coisa_de_devoficial)
-- 📸 [Instagram — @coisa_de_dev](https://instagram.com/coisa_de_dev)
-- 💼 [LinkedIn](https://linkedin.com/in/igorgiamoniano)
+[igorgdev.com.br](https://igorgdev.com.br) - [dev.to/igorgbr](https://dev.to/igorgbr) - [LinkedIn](https://linkedin.com/in/igorgiamoniano)
