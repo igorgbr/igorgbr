@@ -12,7 +12,7 @@
                 88888888.88888.                ------------------------------------------------
               .8888888888888888.               OS:              Fedora Linux, GNOME
               888888888888888888               Host:            Coisa de Dev, igorgdev.com.br
-              88' _`88'_  `88888               Work:            Developer @SYSMANAGER
+              88' _`88'_  `88888               Work:            Developer Freelancer
               88 88 88 88  88888               Teaching:        Linux and open source, Coisa de Dev Academy
               88_88_::_88_:88888               Editor:          VS Code, rust-analyzer, cargo 1.96.0
               88:::,::,:::::8888
@@ -38,14 +38,15 @@
                                                dev.to:          @igorgbr
 
                                                - GitHub Stats --------------------------------------
-                                               Repos:           100        Followers:   174
+                                               Repos:           113        Followers:   187
                                                Badges:          Pull Shark x3, Pair Extraordinaire x3
 ```
 
 ### What I'm building
 
-- **[Coisa de Dev](https://igorgdev.com.br)** - Linux, open source and security education in Portuguese: YouTube, Instagram and the Academy courses.
+- **[Coisa de Dev](https://www.coisadedevacademy.com.br)** - Linux, open source and security education in Portuguese: YouTube, Instagram and the Academy courses.
 - **A Biblia do Hacker** - a cybersecurity book written in Portuguese for the Coisa de Dev community.
+- **[O Minimo Essencial sobre Linux](https://coisadedevacademy.com.br/e-books-linux/)** - um guia direto para quem deseja dar os primeiros passos no universo Linux sem se perder em explicações complicadas.
 - **Open source contributions** - Rust on [uutils/coreutils](https://github.com/uutils/coreutils), JavaScript on TimeConv, and documentation on the Linux kernel.
 
 ### Writing
