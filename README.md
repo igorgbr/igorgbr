@@ -47,7 +47,7 @@
 - **[Coisa de Dev](https://www.coisadedevacademy.com.br)** - Linux, open source and security education in Portuguese: YouTube, Instagram and the Academy courses.
 - **A Biblia do Hacker** - a cybersecurity book written in Portuguese for the Coisa de Dev community.
 - **[O Minimo Essencial sobre Linux](https://coisadedevacademy.com.br/e-books-linux/)** - um guia direto para quem deseja dar os primeiros passos no universo Linux sem se perder em explicações complicadas.
-- **Open source contributions** - Rust on [uutils/coreutils](https://github.com/uutils/coreutils), JavaScript on TimeConv, and documentation on the Linux kernel.
+- **Open source contributions** - Rust on [uutils/coreutils](https://github.com/uutils/coreutils), documentation on the Linux kernel and Elixir, Rust and Python projects.
 
 ### Writing
 
